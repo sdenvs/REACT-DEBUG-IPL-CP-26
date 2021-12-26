@@ -15,7 +15,7 @@ class TeamMatches extends Component {
   }
 
   componentDidMount() {
-    this.getTeamMatches
+    this.getTeamMatches()
   }
 
   getFormattedData = data => ({

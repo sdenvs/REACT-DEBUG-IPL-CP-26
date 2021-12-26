@@ -3,7 +3,7 @@
   width: 50%;
 }
 
-.link {
+.link-item {
   display: flex;
   align-items: center;
   background-color: #ffffff33;
@@ -17,11 +17,10 @@
   margin-left: 8px;
   margin-right: 8px;
   margin-bottom: 24px;
-  text-decoration: none;
 }
 
 @media screen and (min-width: 768px) {
-  .link {
+  .link-item {
     padding-left: 24px;
     padding-top: 12px;
     padding-bottom: 12px;
